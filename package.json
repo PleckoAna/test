@@ -1,7 +1,7 @@
 {
   "name": "test",
   "version": "1.0.0",
-  "description": "testni projekt",
+  "description": "testni projekt 2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/PleckoAna/test.git"
   },
-  "author": "Ana Plečko",
+  "author": "Ana Plečko 1",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/PleckoAna/test/issues"
