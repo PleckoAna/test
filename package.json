@@ -1,17 +1,17 @@
 {
   "name": "test",
   "version": "1.0.0",
-  "description": "TEST",
+  "description": "testni projekt",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "haha": "haha"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PleckoAna/test.git"
   },
-  "author": "Uroš Zagi",
+  "author": "Ana Plečko",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/PleckoAna/test/issues"
