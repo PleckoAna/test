@@ -1,11 +1,12 @@
 {
   "name": "test",
   "version": "1.0.0",
-  "description": "testni projekt 2",
+  "description": "testni projekt",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "haha":"haha"
   },
   "repository": {
     "type": "git",
