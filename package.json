@@ -1,16 +1,17 @@
 {
   "name": "test",
   "version": "1.0.0",
-  "description": "",
+  "description": "TEST",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "haha": "haha"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PleckoAna/test.git"
   },
-  "author": "",
+  "author": "Uroš Zagi",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/PleckoAna/test/issues"
